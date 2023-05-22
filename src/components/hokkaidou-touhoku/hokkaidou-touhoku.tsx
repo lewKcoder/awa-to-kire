@@ -1,13 +1,14 @@
 import { Component } from './types';
 import styles from './styles.scss';
+import { DivisionBlocks } from '@/components/division-blocks';
+import data from './data.json';
 
 export const HokkaidouTouhoku: Component = () => {
   return (
-    <div className="container hokkaidou-touhoku">
-      <a href="#" className="content hokkaidou">
-        北海道
-      </a>
-      <style jsx>{styles}</style>
+    <div className="container">
+      <DivisionBlocks {...data} />
+
+      <style jsx>{``}</style>
     </div>
   );
 };

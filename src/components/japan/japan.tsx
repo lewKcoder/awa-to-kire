@@ -9,7 +9,7 @@ import { Kyusyu } from '../kyusyu';
 
 export const Japan: Component = () => {
   return (
-    <div>
+    <>
       <HokkaidouTouhoku />
       <Kantou />
       <Tyubu />
@@ -17,6 +17,6 @@ export const Japan: Component = () => {
       <Tyugoku />
       <Shikoku />
       <Kyusyu />
-    </div>
+    </>
   );
 };
