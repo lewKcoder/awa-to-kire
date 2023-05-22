@@ -1,5 +1,5 @@
 import { Component } from './types';
-import { HokkaidoTouhoku } from '../hokkaido-touhoku';
+import { HokkaidouTouhoku } from '../hokkaidou-touhoku';
 import { Kantou } from '../kantou';
 import { Tyubu } from '../tyubu';
 import { Kinki } from '../kinki';
@@ -10,7 +10,7 @@ import { Kyusyu } from '../kyusyu';
 export const Japan: Component = () => {
   return (
     <div>
-      <HokkaidoTouhoku />
+      <HokkaidouTouhoku />
       <Kantou />
       <Tyubu />
       <Kinki />
