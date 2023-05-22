@@ -1,0 +1,1 @@
+export { Kantou } from './kantou';

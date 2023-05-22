@@ -1,0 +1,1 @@
+export { Tyugoku } from './tyugoku';

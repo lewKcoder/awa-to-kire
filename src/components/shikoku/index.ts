@@ -1,0 +1,1 @@
+export { Shikoku } from './shikoku';

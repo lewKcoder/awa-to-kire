@@ -1,0 +1,1 @@
+export { Kinki } from './kinki';

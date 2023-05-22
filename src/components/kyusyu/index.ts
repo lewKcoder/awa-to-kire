@@ -1,0 +1,1 @@
+export { Kyusyu } from './kyusyu';
