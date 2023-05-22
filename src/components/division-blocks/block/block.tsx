@@ -3,7 +3,7 @@ import { BlockComponent as Component } from '../types';
 export const Block: Component = (props) => {
   const { text, backgroundColor, left, right, width, height } = props;
   return (
-    <li>
+    <li className="container">
       <a href="#">{text}</a>
 
       <style jsx>{`

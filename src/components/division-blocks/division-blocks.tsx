@@ -5,10 +5,16 @@ export const DivisionBlocks: Component = (props) => {
   const { division, items } = props;
 
   return (
-    <ul className={division}>
+    <ul className={`container ${division}`}>
       {items.map((item) => (
         <Block key={item.text} {...item} />
       ))}
+
+      <style>{`
+        .container {
+          list-style: none;
+        }
+      `}</style>
     </ul>
   );
 };
