@@ -2,61 +2,58 @@
   "division": "hokkaido-touhoku",
   "width": "139",
   "height": "264",
+  "left": "623",
+  "top": "265",
+  "backgroundColor": "#ff4d4d",
+  "hoverBackgroundColor": "#ff8888",
   "items": [
     {
       "text": "北海道",
       "width": "133",
       "height": "70",
-      "left": "3",
-      "backgroundColor": "#ff4d4d"
+      "left": "3"
     },
     {
       "text": "青森",
       "width": "93",
       "height": "43",
       "left": "21",
-      "top": "96",
-      "backgroundColor": "#ff4d4d"
+      "top": "96"
     },
     {
       "text": "秋田",
       "width": "67",
       "height": "42",
       "left": "3",
-      "top": "139",
-      "backgroundColor": "#ff4d4d"
+      "top": "139"
     },
     {
       "text": "岩手",
       "width": " 67",
       "height": " 42",
       "left": " 70",
-      "top": " 139",
-      "backgroundColor": "#ff4d4d"
+      "top": " 139"
     },
     {
       "text": "山形",
       "width": "67",
       "height": "42",
       "top": "181",
-      "left": " 3",
-      "backgroundColor": "#ff4d4d"
+      "left": " 3"
     },
     {
       "text": "宮城",
       "width": "67",
       "height": "42",
       "top": "181",
-      "left": "70",
-      "backgroundColor": "#ff4d4d"
+      "left": "70"
     },
     {
       "text": "福島",
       "width": "67",
       "height": "42",
       "top": "223",
-      "left": "70",
-      "backgroundColor": "#ff4d4d"
+      "left": "70"
     }
   ]
 }
