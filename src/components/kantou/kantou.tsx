@@ -1,5 +1,7 @@
 import { Component } from './types';
+import { DivisionBlocks } from '@/components/division-blocks';
+import data from './data.json';
 
 export const Kantou: Component = () => {
-  return <div>Kantou</div>;
+  return <DivisionBlocks {...data} />;
 };
