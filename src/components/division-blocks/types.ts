@@ -9,6 +9,7 @@ type Props = {
   height: string;
   top?: string;
   left?: string;
+  zIndex?: number;
   items: BlockComponentProps[];
 };
 
