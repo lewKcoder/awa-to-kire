@@ -1,0 +1,70 @@
+{
+  "division": "tyubu",
+  "width": "270",
+  "height": "211",
+  "left": "423",
+  "top": "50",
+  "backgroundColor": "#f7851e",
+  "hoverBackgroundColor": "#ffbb7e",
+  "items": [
+    {
+      "text": "新潟",
+      "width": "85",
+      "height": "42",
+      "left": "185"
+    },
+    {
+      "text": "富山",
+      "width": "67",
+      "height": "42",
+      "left": "118"
+    },
+    {
+      "text": "石川",
+      "width": "50",
+      "height": "57",
+      "left": "68"
+    },
+    {
+      "text": "福井",
+      "width": "68",
+      "height": "42",
+      "left": "0"
+    },
+    {
+      "text": "長野",
+      "width": "67",
+      "height": "85",
+      "left": "118",
+      "top": "42"
+    },
+    {
+      "text": "山梨",
+      "width": "67",
+      "height": "42",
+      "left": "118",
+      "top": "127"
+    },
+    {
+      "text": "岐阜",
+      "width": "50",
+      "height": "55",
+      "left": "68",
+      "top": "57"
+    },
+    {
+      "text": "静岡",
+      "width": "67",
+      "height": "42",
+      "left": "118",
+      "top": "169"
+    },
+    {
+      "text": "愛知",
+      "width": "50",
+      "height": "57",
+      "top": "112",
+      "left": "68"
+    }
+  ]
+}
