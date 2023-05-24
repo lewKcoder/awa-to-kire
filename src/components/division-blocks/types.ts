@@ -5,8 +5,6 @@ type Props = {
   division: string;
   backgroundColor: string;
   hoverBackgroundColor: string;
-  width: string;
-  height: string;
   top?: string;
   left?: string;
   zIndex?: number;
