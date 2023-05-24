@@ -1,21 +1,15 @@
 import { FunctionComponent } from 'react';
+import { Props as BlockComponentProps } from './block/types';
 
-type Prop = {
-  text: string;
+type Props = {
+  division: string;
   backgroundColor: string;
+  hoverBackgroundColor: string;
   width: string;
   height: string;
   top?: string;
   left?: string;
+  items: BlockComponentProps[];
 };
 
-type Props = {
-  division: string;
-  width: string;
-  height: string;
-  items: Prop[];
-};
-
-export type BlockComponent = FunctionComponent<Prop>;
-
-export type BloclsComponent = FunctionComponent<Props>;
+export type Component = FunctionComponent<Props>;
