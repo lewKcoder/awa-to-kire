@@ -1,0 +1,41 @@
+{
+  "division": "tyugoku",
+  "left": "154",
+  "top": "223",
+  "backgroundColor": "#45c036",
+  "hoverBackgroundColor": "#7fd275",
+  "items": [
+    {
+      "text": "鳥取",
+      "width": "50",
+      "height": "49",
+      "left": "101"
+    },
+    {
+      "text": "岡山",
+      "width": "50",
+      "height": "49",
+      "top": "49",
+      "left": "101"
+    },
+    {
+      "text": "島根",
+      "width": "51",
+      "height": "49",
+      "left": "50"
+    },
+    {
+      "text": "広島",
+      "width": "51",
+      "height": "49",
+      "top": "49",
+      "left": "50"
+    },
+    {
+      "text": "山口",
+      "width": "50",
+      "height": "98",
+      "left": "0"
+    }
+  ]
+}
