@@ -1,24 +1,26 @@
 import { BlockComponent as Component } from '../types';
-import { Box } from '@chakra-ui/react';
+import { Box, Link } from '@chakra-ui/react';
 
 export const Block: Component = (props) => {
   const { text, backgroundColor, left, top, width, height } = props;
   return (
-    <Box
-      color="#fff"
-      bgColor={backgroundColor}
-      left={left && `${left}px`}
-      top={top && `${top}px`}
-      width={`${width}px`}
-      height={`${height}px`}
-      borderRadius={'8px'}
-      position={'absolute'}
-      display={'flex'}
-      alignItems={'center'}
-      justifyContent={'center'}
-      border={'1px solid #fff'}
-    >
-      <a href="#">{text}</a>
+    <Box left={left && `${left}px`} top={top && `${top}px`} position={'absolute'}>
+      <Link
+        href="#"
+        alignItems={'center'}
+        bgColor={backgroundColor}
+        border={'1px solid #fff'}
+        borderRadius={'8px'}
+        color="#fff"
+        display={'flex'}
+        fontWeight={'bold'}
+        justifyContent={'center'}
+        height={`${height}px`}
+        width={`${width}px`}
+        _hover={{ bg: '#ff8888', textDecoration: 'none' }}
+      >
+        {text}
+      </Link>
     </Box>
   );
 };
