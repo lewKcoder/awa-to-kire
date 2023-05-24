@@ -1,5 +1,7 @@
 import { Component } from './types';
+import { DivisionBlocks } from '@/components/division-blocks';
+import data from './data.json';
 
 export const Kinki: Component = () => {
-  return <div>Kinki</div>;
+  return <DivisionBlocks {...data} />;
 };

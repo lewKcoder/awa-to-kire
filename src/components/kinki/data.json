@@ -1,0 +1,58 @@
+{
+  "division": "kinki",
+  "width": "186",
+  "height": "211",
+  "left": "305",
+  "top": "-426",
+  "backgroundColor": "#a3b434",
+  "hoverBackgroundColor": "#c2d160",
+  "items": [
+    {
+      "text": "京都",
+      "width": "67",
+      "height": "84",
+      "left": "51"
+    },
+    {
+      "text": "滋賀",
+      "width": "68",
+      "height": "42",
+      "top": "42",
+      "left": "118"
+    },
+    {
+      "text": "大阪",
+      "width": "67",
+      "height": "85",
+      "top": "84",
+      "left": "51"
+    },
+    {
+      "text": "奈良",
+      "width": "34",
+      "height": "85",
+      "top": "84",
+      "left": "118"
+    },
+    {
+      "text": "三重",
+      "width": "34",
+      "height": "85",
+      "top": "84",
+      "left": "152"
+    },
+    {
+      "text": "和歌山",
+      "width": "113",
+      "height": "42",
+      "top": "169",
+      "left": "61"
+    },
+    {
+      "text": "兵庫",
+      "width": "51",
+      "height": "98",
+      "left": "0"
+    }
+  ]
+}
