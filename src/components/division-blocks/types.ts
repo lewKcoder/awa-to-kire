@@ -3,14 +3,16 @@ import { FunctionComponent } from 'react';
 type Prop = {
   text: string;
   backgroundColor: string;
-  left: string;
-  right: string;
   width: string;
   height: string;
+  top?: string;
+  left?: string;
 };
 
 type Props = {
   division: string;
+  width: string;
+  height: string;
   items: Prop[];
 };
 

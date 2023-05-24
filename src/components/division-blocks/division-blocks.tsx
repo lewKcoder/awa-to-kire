@@ -1,20 +1,15 @@
 import { BloclsComponent as Component } from './types';
 import { Block } from '@/components/division-blocks/block';
+import { Box } from '@chakra-ui/react';
 
 export const DivisionBlocks: Component = (props) => {
-  const { division, items } = props;
+  const { division, width, height, items } = props;
 
   return (
-    <ul className={`container ${division}`}>
+    <Box className={division} width={`${width}px`} height={`${height}px`} position={'relative'}>
       {items.map((item) => (
         <Block key={item.text} {...item} />
       ))}
-
-      <style>{`
-        .container {
-          list-style: none;
-        }
-      `}</style>
-    </ul>
+    </Box>
   );
 };
