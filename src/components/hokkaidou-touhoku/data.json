@@ -1,61 +1,62 @@
 {
   "division": "hokkaido-touhoku",
+  "width": "139",
+  "height": "264",
   "items": [
     {
       "text": "北海道",
-      "left": "100",
-      "right": "100",
-      "width": "100",
-      "height": "100",
-      "backgroundColor": "#ffffff"
+      "width": "133",
+      "height": "70",
+      "left": "3",
+      "backgroundColor": "#ff4d4d"
     },
     {
       "text": "青森",
-      "left": "100",
-      "right": "100",
-      "width": "100",
-      "height": "100",
-      "backgroundColor": "#ffffff"
+      "width": "93",
+      "height": "43",
+      "left": "21",
+      "top": "96",
+      "backgroundColor": "#ff4d4d"
     },
     {
       "text": "秋田",
-      "left": "100",
-      "right": "100",
-      "width": "100",
-      "height": "100",
-      "backgroundColor": "#ffffff"
+      "width": "67",
+      "height": "42",
+      "left": "3",
+      "top": "139",
+      "backgroundColor": "#ff4d4d"
     },
     {
       "text": "岩手",
-      "left": "100",
-      "right": "100",
-      "width": "100",
-      "height": "100",
-      "backgroundColor": "#ffffff"
+      "width": " 67",
+      "height": " 42",
+      "left": " 70",
+      "top": " 139",
+      "backgroundColor": "#ff4d4d"
     },
     {
       "text": "山形",
-      "left": "100",
-      "right": "100",
-      "width": "100",
-      "height": "100",
-      "backgroundColor": "#ffffff"
+      "width": "67",
+      "height": "42",
+      "top": "181",
+      "left": " 3",
+      "backgroundColor": "#ff4d4d"
     },
     {
       "text": "宮城",
-      "left": "100",
-      "right": "100",
-      "width": "100",
-      "height": "100",
-      "backgroundColor": "#ffffff"
+      "width": "67",
+      "height": "42",
+      "top": "181",
+      "left": "70",
+      "backgroundColor": "#ff4d4d"
     },
     {
       "text": "福島",
-      "left": "100",
-      "right": "100",
-      "width": "100",
-      "height": "100",
-      "backgroundColor": "#ffffff"
+      "width": "67",
+      "height": "42",
+      "top": "223",
+      "left": "70",
+      "backgroundColor": "#ff4d4d"
     }
   ]
 }
