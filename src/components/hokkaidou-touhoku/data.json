@@ -1,10 +1,7 @@
 {
   "division": "hokkaido-touhoku",
-  "width": "139",
-  "height": "264",
   "left": "623",
-
-  "backgroundColor": "#ff4d4d",
+  "backgroundColor": "#ff4d4dde",
   "hoverBackgroundColor": "#ff8888",
   "items": [
     {
