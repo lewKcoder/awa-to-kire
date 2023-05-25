@@ -1,0 +1,65 @@
+{
+  "division": "kyusyu",
+  "top": "235",
+  "left": "-5",
+  "backgroundColor": "#7478c2",
+  "hoverBackgroundColor": "#a9aabc",
+  "items": [
+    {
+      "text": "福岡",
+      "width": "50",
+      "height": "50",
+      "left": "101",
+      "top": "0"
+    },
+    {
+      "text": "佐賀",
+      "width": "50",
+      "height": "50",
+      "left": "51",
+      "top": "0"
+    },
+    {
+      "text": "長崎",
+      "width": "50",
+      "height": "50",
+      "left": "1",
+      "top": "0"
+    },
+    {
+      "text": "大分",
+      "width": "50",
+      "height": "50",
+      "left": "101",
+      "top": "50"
+    },
+    {
+      "text": "熊本",
+      "width": "50",
+      "height": "100",
+      "left": "51",
+      "top": "50"
+    },
+    {
+      "text": "宮崎",
+      "width": "50",
+      "height": "50",
+      "left": "101",
+      "top": "100"
+    },
+    {
+      "text": "鹿児島",
+      "width": "68",
+      "height": "49",
+      "left": "83",
+      "top": "150"
+    },
+    {
+      "text": "沖縄",
+      "width": "50",
+      "height": "50",
+      "left": "1",
+      "top": "197"
+    }
+  ]
+}
