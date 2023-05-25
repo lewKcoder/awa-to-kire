@@ -6,10 +6,18 @@ import { Kinki } from '../kinki';
 import { Tyugoku } from '../tyugoku';
 import { Shikoku } from '../shikoku';
 import { Kyusyu } from '../kyusyu';
+import { Box } from '@chakra-ui/react';
 
 export const Japan: Component = () => {
   return (
-    <>
+    <Box
+      width={'775px'}
+      height={'485px'}
+      position={'absolute'}
+      right={'50%'}
+      top={'120px'}
+      transform={'translateX(50%)'}
+    >
       <HokkaidouTouhoku />
       <Kantou />
       <Tyubu />
@@ -17,6 +25,6 @@ export const Japan: Component = () => {
       <Tyugoku />
       <Shikoku />
       <Kyusyu />
-    </>
+    </Box>
   );
 };

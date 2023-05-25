@@ -13,6 +13,7 @@ export const Block: Component = (props) => {
       color="#fff"
       display={'flex'}
       fontWeight={'bold'}
+      fontSize={'14px'}
       justifyContent={'center'}
       height={`${height}px`}
       width={`${width}px`}
