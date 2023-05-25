@@ -1,0 +1,35 @@
+{
+  "division": "shikoku",
+  "left": "163",
+  "top": "350",
+  "backgroundColor": "#31beca",
+  "hoverBackgroundColor": "#92bcd3",
+  "items": [
+    {
+      "text": "香川",
+      "width": "92",
+      "height": "42",
+      "left": "92"
+    },
+    {
+      "text": "愛媛",
+      "width": "92",
+      "height": "42",
+      "left": "0"
+    },
+    {
+      "text": "徳島",
+      "width": "92",
+      "height": "42",
+      "left": "92",
+      "top": "42"
+    },
+    {
+      "text": "高知",
+      "width": "92",
+      "height": "42",
+      "left": "0",
+      "top": "42"
+    }
+  ]
+}
