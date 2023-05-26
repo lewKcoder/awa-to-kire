@@ -5,8 +5,10 @@ export const Sidebar: React.FunctionComponent = () => {
     <Flex flexDirection={'column'}>
       {/* 仮アイコン */}
       <Flex flexDirection={'column'} alignItems={'center'} padding={'32px 0'}>
-        <Image src="/header/beer.png" alt="siteIcon" width={'72px'} />
-        <Text fontWeight={900}>ビール日和</Text>
+        <Image src="/header/beer.png" alt="siteIcon" width={'80px'} />
+        <Text fontWeight={900} fontSize={'20px'}>
+          ビール日和
+        </Text>
       </Flex>
       <Box width={'100%'}>
         <Link display={'flex'} alignItems={'center'} gap={'8px'} margin={'24px'}>
