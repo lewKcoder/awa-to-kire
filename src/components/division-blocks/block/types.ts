@@ -11,6 +11,5 @@ export type Props = {
 export type Component = FunctionComponent<
   Props & {
     backgroundColor: string;
-    hoverBackgroundColor: string;
   }
 >;

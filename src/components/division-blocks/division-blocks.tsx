@@ -3,7 +3,7 @@ import { Block } from '@/components/division-blocks/block';
 import { Box } from '@chakra-ui/react';
 
 export const DivisionBlocks: Component = (props) => {
-  const { division, backgroundColor, hoverBackgroundColor, top, left, items, zIndex } = props;
+  const { division, backgroundColor, top, left, items, zIndex } = props;
 
   return (
     <Box
@@ -14,12 +14,7 @@ export const DivisionBlocks: Component = (props) => {
       zIndex={zIndex && zIndex}
     >
       {items.map((item) => (
-        <Block
-          key={item.text}
-          {...item}
-          backgroundColor={backgroundColor}
-          hoverBackgroundColor={hoverBackgroundColor}
-        />
+        <Block key={item.text} {...item} backgroundColor={backgroundColor} />
       ))}
     </Box>
   );

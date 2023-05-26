@@ -4,7 +4,6 @@ import { Props as BlockComponentProps } from './block/types';
 type Props = {
   division: string;
   backgroundColor: string;
-  hoverBackgroundColor: string;
   top?: string;
   left?: string;
   zIndex?: number;
