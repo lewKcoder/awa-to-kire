@@ -14,7 +14,7 @@ export const DivisionBlocks: Component = (props) => {
       zIndex={zIndex && zIndex}
     >
       {items.map((item) => (
-        <Block key={item.text} {...item} backgroundColor={backgroundColor} />
+        <Block key={item.text} {...item} backgroundColor={backgroundColor} division={division} />
       ))}
     </Box>
   );

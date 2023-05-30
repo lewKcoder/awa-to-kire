@@ -10,6 +10,7 @@ export type Props = {
 
 export type Component = FunctionComponent<
   Props & {
+    division: string;
     backgroundColor: string;
   }
 >;

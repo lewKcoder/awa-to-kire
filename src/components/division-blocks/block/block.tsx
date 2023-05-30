@@ -2,14 +2,14 @@ import { Component } from './types';
 import { Link } from '@chakra-ui/react';
 
 export const Block: Component = (props) => {
-  const { text, backgroundColor, left, top, width, height } = props;
+  const { text, backgroundColor, left, top, width, height, division } = props;
   return (
     <Link
-      href="#"
+      href={`${division}/beers#${text}`}
       alignItems={'center'}
       bgColor={'#fff'}
       border={`3px solid ${backgroundColor}`}
-      borderRadius={'8px'}
+      borderRadius={'4px'}
       color="#363636"
       display={'flex'}
       fontWeight={'bold'}
