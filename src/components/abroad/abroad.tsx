@@ -18,7 +18,6 @@ export const Abroad: React.FunctionComponent = () => {
       width={'200px'}
       _hover={{ textDecoration: 'none', color: '#fff', backgroundColor: '#d86363' }}
     >
-      {/* <Image src="/header/location.png" /> */}
       海外
     </Link>
   );
