@@ -1,0 +1,93 @@
+{
+  "hokkaidou-touhoku": {
+    "beers": [
+      {
+        "name": "hokkaidou-aaa"
+      },
+      {
+        "name": "hokkaidou-bbb"
+      },
+      {
+        "name": "hokkaidou-ccc"
+      }
+    ]
+  },
+  "kantou": {
+    "beers": [
+      {
+        "name": "kantou-aaa"
+      },
+      {
+        "name": "kantou-bbb"
+      },
+      {
+        "name": "kantou-ccc"
+      }
+    ]
+  },
+  "tyubu": {
+    "beers": [
+      {
+        "name": "tyubu-aaa"
+      },
+      {
+        "name": "tyubu-bbb"
+      },
+      {
+        "name": "tyubu-ccc"
+      }
+    ]
+  },
+  "kinki": {
+    "beers": [
+      {
+        "name": "kinki-aaa"
+      },
+      {
+        "name": "kinki-bbb"
+      },
+      {
+        "name": "kinki-ccc"
+      }
+    ]
+  },
+  "tyugoku": {
+    "beers": [
+      {
+        "name": "tyugoku-aaa"
+      },
+      {
+        "name": "tyugoku-bbb"
+      },
+      {
+        "name": "tyugoku-ccc"
+      }
+    ]
+  },
+  "shikoku": {
+    "beers": [
+      {
+        "name": "shikoku-aaa"
+      },
+      {
+        "name": "shikoku-bbb"
+      },
+      {
+        "name": "shikoku-ccc"
+      }
+    ]
+  },
+  "kyusyu": {
+    "beers": [
+      {
+        "name": "kyusyu-aaa"
+      },
+      {
+        "name": "kyusyu-bbb"
+      },
+      {
+        "name": "kyusyu-ccc"
+      }
+    ]
+  }
+}
