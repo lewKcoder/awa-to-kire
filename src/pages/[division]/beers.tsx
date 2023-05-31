@@ -1,33 +1,59 @@
 import { GetStaticPaths, GetStaticProps } from 'next';
-import { useRouter } from 'next/router';
-import beers from '@/store/data.json';
+import data from '@/store/data.json';
 
 const Page = (props: any) => {
-  const router = useRouter();
-  const { id } = router.query;
-  const { regionName } = props;
+  const { beers } = props;
 
-  return <div>Post: {id}</div>;
+  return <div>Post: {beers[1].name}</div>;
 };
 
 export default Page;
 
-export const getStaticProps: GetStaticProps = async ({ params }) => {
+type Props = {
+  beers: Beers;
+};
+
+type Util = (args: Parameters<GetStaticProps>[0]) => {
+  division: string;
+};
+
+type Beers = {
+  name: string;
+}[];
+
+type Regions = {
+  [key: string]: {
+    beers: Beers;
+  };
+};
+
+const getDivisionRecord: Util = (args) => {
+  const { params } = args;
   const division = params?.division;
 
+  if (division === undefined) {
+    throw new Error('division not defined');
+  }
+
+  if (typeof division === 'object') {
+    throw new Error('division not defined');
+  }
+
+  return { division: division };
+};
+
+export const getStaticProps: GetStaticProps<Props> = async (props) => {
+  const { division } = getDivisionRecord(props);
+  const beers: Regions = data;
+
   return {
-    props: {
-      regionName: 'werstyuhi',
-    },
+    props: beers[division],
   };
 };
 
 export const getStaticPaths: GetStaticPaths = async () => {
-  // ここで division のリストを取得します。これは API から取得するか、
-  // 静的に定義するか、あるいは他の方法でも構いません。
   const divisions = ['hokkaidou-touhoku', 'kantou', 'tyubu', 'kinki', 'tyugoku', 'kyusyu'];
 
-  // paths 配列を生成します。各パスは `division` パラメータを持つオブジェクトです。
   const paths = divisions.map((division) => {
     return { params: { division } };
   });
