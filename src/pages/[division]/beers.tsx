@@ -1,20 +1,23 @@
 import { GetStaticPaths, GetStaticProps } from 'next';
+import { getDivisionRecord } from '@/utils/get-division-record';
 import data from '@/store/data.json';
 
 const Page = (props: any) => {
   const { beers } = props;
 
-  return <div>Post: {beers[1].name}</div>;
+  return (
+    <div>
+      {beers.map((beer: any) => (
+        <p key={beer.name}>{beer.name}</p>
+      ))}
+    </div>
+  );
 };
 
 export default Page;
 
 type Props = {
   beers: Beers;
-};
-
-type Util = (args: Parameters<GetStaticProps>[0]) => {
-  division: string;
 };
 
 type Beers = {
@@ -25,21 +28,6 @@ type Regions = {
   [key: string]: {
     beers: Beers;
   };
-};
-
-const getDivisionRecord: Util = (args) => {
-  const { params } = args;
-  const division = params?.division;
-
-  if (division === undefined) {
-    throw new Error('division not defined');
-  }
-
-  if (typeof division === 'object') {
-    throw new Error('division not defined');
-  }
-
-  return { division: division };
 };
 
 export const getStaticProps: GetStaticProps<Props> = async (props) => {
