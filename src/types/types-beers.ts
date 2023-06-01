@@ -1,26 +1,21 @@
 export type Prefectures = {
   prefectures: {
     prefecture: string;
-    beers: Beers;
+    beers: Beer[];
   }[];
 };
 
-export type Beers = {
+export type Beer = {
   name: string;
   style: string;
   color: string;
   alcohol: number;
   bitterness: string;
   sweetness: string;
-  'full-bodied': string;
+  fullBodied: string;
   feature: string;
-}[];
+};
 
 export type Regions = {
-  [key: string]: {
-    prefectures: {
-      prefecture: string;
-      beers: Beers;
-    }[];
-  };
+  [key: string]: Prefectures;
 };

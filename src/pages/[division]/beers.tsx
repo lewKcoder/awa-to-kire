@@ -45,7 +45,7 @@ type Beers = {
   alcohol: number;
   bitterness: string;
   sweetness: string;
-  'full-bodied': string;
+  fullBodied: string;
   feature: string;
 }[];
 
