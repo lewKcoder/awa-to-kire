@@ -1,19 +1,3 @@
-type Beers = {
-  name: string;
-  style: string;
-  color: string;
-  alcohol: number;
-  bitterness: string;
-  sweetness: string;
-  'full-bodied': string;
-  feature: string;
-}[];
+import { Prefectures } from '@/types/types-beers';
 
-type Regions = {
-  prefectures: {
-    prefecture: string;
-    beers: Beers;
-  }[];
-};
-
-export type Component = React.FunctionComponent<Regions>;
+export type Component = React.FunctionComponent<Prefectures>;
