@@ -3,6 +3,7 @@ import { getDivisionRecord } from '@/utils/get-division-record';
 import dataImported from '@/store/data.json';
 import { BeerPanels } from '@/layouts/beer-panels';
 import Head from 'next/head';
+import { Prefectures, Regions } from '@/types/types-beers';
 
 const Page = (props: any) => {
   const { prefectures } = props;
@@ -29,36 +30,7 @@ const Page = (props: any) => {
 
 export default Page;
 
-type Prefecture = {
-  prefecture: string;
-  beers: Beers;
-};
-
-type Props = {
-  prefectures: Prefecture[];
-};
-
-type Beers = {
-  name: string;
-  style: string;
-  color: string;
-  alcohol: number;
-  bitterness: string;
-  sweetness: string;
-  fullBodied: string;
-  feature: string;
-}[];
-
-type Regions = {
-  [key: string]: {
-    prefectures: {
-      prefecture: string;
-      beers: Beers;
-    }[];
-  };
-};
-
-export const getStaticProps: GetStaticProps<Props> = async (props) => {
+export const getStaticProps: GetStaticProps<Prefectures> = async (props) => {
   const { division } = getDivisionRecord(props);
   const data: Regions = dataImported;
 
