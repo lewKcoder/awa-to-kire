@@ -3,7 +3,7 @@ import { Component } from './types';
 import { Circle } from '@/components/circle';
 import { BeerPanel } from '@/components/beer-panel';
 
-export const BeerLists: Component = (props) => {
+export const BeerPanels: Component = (props) => {
   const { prefectures } = props;
 
   return (

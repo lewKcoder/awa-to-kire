@@ -1,7 +1,7 @@
 import { GetStaticPaths, GetStaticProps } from 'next';
 import { getDivisionRecord } from '@/utils/get-division-record';
 import dataImported from '@/store/data.json';
-import { BeerLists } from '@/layouts/beer-lists';
+import { BeerPanels } from '@/layouts/beer-panels';
 import Head from 'next/head';
 
 const Page = (props: any) => {
@@ -22,7 +22,7 @@ const Page = (props: any) => {
           rel="stylesheet"
         />
       </Head>
-      <BeerLists prefectures={prefectures} />
+      <BeerPanels prefectures={prefectures} />
     </>
   );
 };
