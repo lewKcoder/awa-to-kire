@@ -1,11 +1,11 @@
 import { Japan } from '@/components/japan';
-import { Abroad } from '@/components/abroad';
+import { Circle } from '@/components/circle';
 import { CommonLayouts } from '../common-layouts';
 
 export const Map: React.FunctionComponent = () => {
   return (
     <CommonLayouts>
-      <Abroad />
+      <Circle type="text" href="#" text="海外" />
       <Japan />
     </CommonLayouts>
   );
