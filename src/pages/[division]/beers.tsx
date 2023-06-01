@@ -40,7 +40,15 @@ export const getStaticProps: GetStaticProps<Prefectures> = async (props) => {
 };
 
 export const getStaticPaths: GetStaticPaths = async () => {
-  const divisions = ['hokkaidou-touhoku', 'kantou', 'tyubu', 'kinki', 'tyugoku', 'kyusyu'];
+  const divisions = [
+    'hokkaidou-touhoku',
+    'kantou',
+    'tyubu',
+    'kinki',
+    'tyugoku',
+    'shikoku',
+    'kyusyu',
+  ];
 
   const paths = divisions.map((division) => {
     return { params: { division } };
