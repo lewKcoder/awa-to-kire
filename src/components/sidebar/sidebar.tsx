@@ -16,25 +16,25 @@ export const Sidebar: React.FunctionComponent = () => {
       <Box width={'100%'}>
         <Link href="#">
           <Text sx={TextStyles}>
-            <Image src="/header/light-bulb.png" alt="siteIcon" sx={ImageStyles} />
+            <Image src="/header/category.png" alt="siteIcon" sx={ImageStyles} />
             ビールの種類
           </Text>
         </Link>
         <Link href="#">
           <Text sx={TextStyles}>
-            <Image src="/header/restaurant.png" alt="siteIcon" sx={ImageStyles} />
+            <Image src="/header/restaurant.png" alt="RestaurantIcon" sx={ImageStyles} />
             おつまみ
           </Text>
         </Link>
         <Link href="#">
           <Text sx={TextStyles}>
-            <Image src="/header/cocktail.png" alt="siteIcon" sx={ImageStyles} />
+            <Image src="/header/cocktail.png" alt="CocktailIcon" sx={ImageStyles} />
             アレンジ
           </Text>
         </Link>
         <Link href="#">
           <Text sx={TextStyles}>
-            <Image src="/header/light-bulb.png" alt="siteIcon" sx={ImageStyles} />
+            <Image src="/header/light-bulb.png" alt="LightBulbIcon" sx={ImageStyles} />
             豆知識
           </Text>
         </Link>
