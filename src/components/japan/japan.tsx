@@ -7,17 +7,11 @@ import { Tyugoku } from '../tyugoku';
 import { Shikoku } from '../shikoku';
 import { Kyusyu } from '../kyusyu';
 import { Box } from '@chakra-ui/react';
+import { styles } from './styles';
 
 export const Japan: Component = () => {
   return (
-    <Box
-      width={'775px'}
-      height={'485px'}
-      position={'absolute'}
-      right={'50%'}
-      top={'120px'}
-      transform={'translateX(50%)'}
-    >
+    <Box sx={styles}>
       <HokkaidouTouhoku />
       <Kantou />
       <Tyubu />

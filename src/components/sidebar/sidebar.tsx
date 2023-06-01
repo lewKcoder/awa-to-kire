@@ -1,5 +1,6 @@
 import { Box, Image, Flex, Text } from '@chakra-ui/react';
 import Link from 'next/link';
+import { TextStyles, ImageStyles } from './styles';
 
 export const Sidebar: React.FunctionComponent = () => {
   return (
@@ -14,26 +15,26 @@ export const Sidebar: React.FunctionComponent = () => {
       </Link>
       <Box width={'100%'}>
         <Link href="#">
-          <Text display={'flex'} alignItems={'center'} gap={'8px'} margin={'24px'}>
-            <Image src="/header/light-bulb.png" alt="siteIcon" width={'32px'} height={'32px'} />
+          <Text sx={TextStyles}>
+            <Image src="/header/light-bulb.png" alt="siteIcon" sx={ImageStyles} />
             ビールの種類
           </Text>
         </Link>
         <Link href="#">
-          <Text display={'flex'} alignItems={'center'} gap={'8px'} margin={'24px'}>
-            <Image src="/header/restaurant.png" alt="siteIcon" width={'32px'} height={'32px'} />
+          <Text sx={TextStyles}>
+            <Image src="/header/restaurant.png" alt="siteIcon" sx={ImageStyles} />
             おつまみ
           </Text>
         </Link>
         <Link href="#">
-          <Text display={'flex'} alignItems={'center'} gap={'8px'} margin={'24px'}>
-            <Image src="/header/cocktail.png" alt="siteIcon" width={'32px'} height={'32px'} />
+          <Text sx={TextStyles}>
+            <Image src="/header/cocktail.png" alt="siteIcon" sx={ImageStyles} />
             アレンジ
           </Text>
         </Link>
         <Link href="#">
-          <Text display={'flex'} alignItems={'center'} gap={'8px'} margin={'24px'}>
-            <Image src="/header/light-bulb.png" alt="siteIcon" width={'32px'} height={'32px'} />
+          <Text sx={TextStyles}>
+            <Image src="/header/light-bulb.png" alt="siteIcon" sx={ImageStyles} />
             豆知識
           </Text>
         </Link>
