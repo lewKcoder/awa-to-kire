@@ -14,7 +14,7 @@ export const Sidebar: React.FunctionComponent = () => {
         </Flex>
       </Link>
       <Box width={'100%'}>
-        <Link href="#">
+        <Link href="/beer-type">
           <Text sx={TextStyles}>
             <Image src="/header/category.png" alt="siteIcon" sx={ImageStyles} />
             ビールの種類
@@ -32,7 +32,7 @@ export const Sidebar: React.FunctionComponent = () => {
             アレンジ
           </Text>
         </Link>
-        <Link href="#">
+        <Link href="/bits-of-knowledge">
           <Text sx={TextStyles}>
             <Image src="/header/light-bulb.png" alt="LightBulbIcon" sx={ImageStyles} />
             豆知識
