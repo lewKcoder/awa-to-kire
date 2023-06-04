@@ -7,12 +7,14 @@ export type Prefectures = {
 
 export type Beer = {
   name: string;
+  src: string;
+  alt: string;
   style: string;
   color: string;
   alcohol: number;
-  bitterness: string;
-  sweetness: string;
-  fullBodied: string;
+  bitterness: number;
+  sweetness: number;
+  fullBodied: number;
   feature: string;
 };
 

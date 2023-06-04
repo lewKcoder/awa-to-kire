@@ -6,32 +6,38 @@
         "beers": [
           {
             "name": "hokkaidou-aaa",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "IPA",
             "color": "#f7851e",
             "alcohol": 5,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "ほんのり甘い香りが〜〜〜〜"
           },
           {
             "name": "hokkaidou-bbb",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "ピルスナー",
             "color": "#f7851e",
             "alcohol": 7,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "キリッと酸味の〜〜〜〜"
           },
           {
             "name": "hokkaidou-ccc",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "ペールエール",
             "color": "#f7851e",
             "alcohol": 3,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "程よい苦味の〜〜〜〜"
           }
         ]
@@ -41,32 +47,38 @@
         "beers": [
           {
             "name": "aomori-aaa",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "IPA",
             "color": "#f7851e",
             "alcohol": 5,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "ほんのり甘い香りが〜〜〜〜"
           },
           {
             "name": "aomori-bbb",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "ピルスナー",
             "color": "#f7851e",
             "alcohol": 7,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "キリッと酸味の〜〜〜〜"
           },
           {
             "name": "aomori-ccc",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "ペールエール",
             "color": "#f7851e",
             "alcohol": 3,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "程よい苦味の〜〜〜〜"
           }
         ]
@@ -76,32 +88,38 @@
         "beers": [
           {
             "name": "akita-aaa",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "IPA",
             "color": "#f7851e",
             "alcohol": 5,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "ほんのり甘い香りが〜〜〜〜"
           },
           {
             "name": "akita-bbb",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "ピルスナー",
             "color": "#f7851e",
             "alcohol": 7,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "キリッと酸味の〜〜〜〜"
           },
           {
             "name": "akita-ccc",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "ペールエール",
             "color": "#f7851e",
             "alcohol": 3,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "程よい苦味の〜〜〜〜"
           }
         ]
@@ -111,32 +129,38 @@
         "beers": [
           {
             "name": "iwate-aaa",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "IPA",
             "color": "#f7851e",
             "alcohol": 5,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "ほんのり甘い香りが〜〜〜〜"
           },
           {
             "name": "iwate-bbb",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "ピルスナー",
             "color": "#f7851e",
             "alcohol": 7,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "キリッと酸味の〜〜〜〜"
           },
           {
             "name": "iwate-ccc",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "ペールエール",
             "color": "#f7851e",
             "alcohol": 3,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "程よい苦味の〜〜〜〜"
           }
         ]
@@ -146,32 +170,38 @@
         "beers": [
           {
             "name": "yamagata-aaa",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "IPA",
             "color": "#f7851e",
             "alcohol": 5,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "ほんのり甘い香りが〜〜〜〜"
           },
           {
             "name": "yamagata-bbb",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "ピルスナー",
             "color": "#f7851e",
             "alcohol": 7,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "キリッと酸味の〜〜〜〜"
           },
           {
             "name": "yamagata-ccc",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "ペールエール",
             "color": "#f7851e",
             "alcohol": 3,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "程よい苦味の〜〜〜〜"
           }
         ]
@@ -181,32 +211,38 @@
         "beers": [
           {
             "name": "miyagi-aaa",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "IPA",
             "color": "#f7851e",
             "alcohol": 5,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "ほんのり甘い香りが〜〜〜〜"
           },
           {
             "name": "miyagi-bbb",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "ピルスナー",
             "color": "#f7851e",
             "alcohol": 7,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "キリッと酸味の〜〜〜〜"
           },
           {
             "name": "miyagi-ccc",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "ペールエール",
             "color": "#f7851e",
             "alcohol": 3,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "程よい苦味の〜〜〜〜"
           }
         ]
@@ -216,32 +252,38 @@
         "beers": [
           {
             "name": "fukushima-aaa",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "IPA",
             "color": "#f7851e",
             "alcohol": 5,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "ほんのり甘い香りが〜〜〜〜"
           },
           {
             "name": "fukushima-bbb",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "ピルスナー",
             "color": "#f7851e",
             "alcohol": 7,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "キリッと酸味の〜〜〜〜"
           },
           {
             "name": "fukushima-ccc",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "ペールエール",
             "color": "#f7851e",
             "alcohol": 3,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "程よい苦味の〜〜〜〜"
           }
         ]
@@ -255,32 +297,38 @@
         "beers": [
           {
             "name": "hokkaidou-aaa",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "IPA",
             "color": "#f7851e",
             "alcohol": 5,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "ほんのり甘い香りが〜〜〜〜"
           },
           {
             "name": "hokkaidou-bbb",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "ピルスナー",
             "color": "#f7851e",
             "alcohol": 7,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "キリッと酸味の〜〜〜〜"
           },
           {
             "name": "hokkaidou-ccc",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "ペールエール",
             "color": "#f7851e",
             "alcohol": 3,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "程よい苦味の〜〜〜〜"
           }
         ]
@@ -290,32 +338,38 @@
         "beers": [
           {
             "name": "aomori-aaa",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "IPA",
             "color": "#f7851e",
             "alcohol": 5,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "ほんのり甘い香りが〜〜〜〜"
           },
           {
             "name": "aomori-bbb",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "ピルスナー",
             "color": "#f7851e",
             "alcohol": 7,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "キリッと酸味の〜〜〜〜"
           },
           {
             "name": "aomori-ccc",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "ペールエール",
             "color": "#f7851e",
             "alcohol": 3,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "程よい苦味の〜〜〜〜"
           }
         ]
@@ -325,32 +379,38 @@
         "beers": [
           {
             "name": "akita-aaa",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "IPA",
             "color": "#f7851e",
             "alcohol": 5,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "ほんのり甘い香りが〜〜〜〜"
           },
           {
             "name": "akita-bbb",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "ピルスナー",
             "color": "#f7851e",
             "alcohol": 7,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "キリッと酸味の〜〜〜〜"
           },
           {
             "name": "akita-ccc",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "ペールエール",
             "color": "#f7851e",
             "alcohol": 3,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "程よい苦味の〜〜〜〜"
           }
         ]
@@ -360,32 +420,38 @@
         "beers": [
           {
             "name": "iwate-aaa",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "IPA",
             "color": "#f7851e",
             "alcohol": 5,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "ほんのり甘い香りが〜〜〜〜"
           },
           {
             "name": "iwate-bbb",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "ピルスナー",
             "color": "#f7851e",
             "alcohol": 7,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "キリッと酸味の〜〜〜〜"
           },
           {
             "name": "iwate-ccc",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "ペールエール",
             "color": "#f7851e",
             "alcohol": 3,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "程よい苦味の〜〜〜〜"
           }
         ]
@@ -395,32 +461,38 @@
         "beers": [
           {
             "name": "yamagata-aaa",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "IPA",
             "color": "#f7851e",
             "alcohol": 5,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "ほんのり甘い香りが〜〜〜〜"
           },
           {
             "name": "yamagata-bbb",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "ピルスナー",
             "color": "#f7851e",
             "alcohol": 7,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "キリッと酸味の〜〜〜〜"
           },
           {
             "name": "yamagata-ccc",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "ペールエール",
             "color": "#f7851e",
             "alcohol": 3,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "程よい苦味の〜〜〜〜"
           }
         ]
@@ -430,32 +502,38 @@
         "beers": [
           {
             "name": "miyagi-aaa",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "IPA",
             "color": "#f7851e",
             "alcohol": 5,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "ほんのり甘い香りが〜〜〜〜"
           },
           {
             "name": "miyagi-bbb",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "ピルスナー",
             "color": "#f7851e",
             "alcohol": 7,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "キリッと酸味の〜〜〜〜"
           },
           {
             "name": "miyagi-ccc",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "ペールエール",
             "color": "#f7851e",
             "alcohol": 3,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "程よい苦味の〜〜〜〜"
           }
         ]
@@ -465,32 +543,38 @@
         "beers": [
           {
             "name": "fukushima-aaa",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "IPA",
             "color": "#f7851e",
             "alcohol": 5,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "ほんのり甘い香りが〜〜〜〜"
           },
           {
             "name": "fukushima-bbb",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "ピルスナー",
             "color": "#f7851e",
             "alcohol": 7,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "キリッと酸味の〜〜〜〜"
           },
           {
             "name": "fukushima-ccc",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "ペールエール",
             "color": "#f7851e",
             "alcohol": 3,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "程よい苦味の〜〜〜〜"
           }
         ]
@@ -504,32 +588,38 @@
         "beers": [
           {
             "name": "hokkaidou-aaa",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "IPA",
             "color": "#f7851e",
             "alcohol": 5,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "ほんのり甘い香りが〜〜〜〜"
           },
           {
             "name": "hokkaidou-bbb",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "ピルスナー",
             "color": "#f7851e",
             "alcohol": 7,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "キリッと酸味の〜〜〜〜"
           },
           {
             "name": "hokkaidou-ccc",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "ペールエール",
             "color": "#f7851e",
             "alcohol": 3,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "程よい苦味の〜〜〜〜"
           }
         ]
@@ -539,32 +629,38 @@
         "beers": [
           {
             "name": "aomori-aaa",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "IPA",
             "color": "#f7851e",
             "alcohol": 5,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "ほんのり甘い香りが〜〜〜〜"
           },
           {
             "name": "aomori-bbb",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "ピルスナー",
             "color": "#f7851e",
             "alcohol": 7,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "キリッと酸味の〜〜〜〜"
           },
           {
             "name": "aomori-ccc",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "ペールエール",
             "color": "#f7851e",
             "alcohol": 3,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "程よい苦味の〜〜〜〜"
           }
         ]
@@ -574,32 +670,38 @@
         "beers": [
           {
             "name": "akita-aaa",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "IPA",
             "color": "#f7851e",
             "alcohol": 5,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "ほんのり甘い香りが〜〜〜〜"
           },
           {
             "name": "akita-bbb",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "ピルスナー",
             "color": "#f7851e",
             "alcohol": 7,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "キリッと酸味の〜〜〜〜"
           },
           {
             "name": "akita-ccc",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "ペールエール",
             "color": "#f7851e",
             "alcohol": 3,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "程よい苦味の〜〜〜〜"
           }
         ]
@@ -609,32 +711,38 @@
         "beers": [
           {
             "name": "iwate-aaa",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "IPA",
             "color": "#f7851e",
             "alcohol": 5,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "ほんのり甘い香りが〜〜〜〜"
           },
           {
             "name": "iwate-bbb",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "ピルスナー",
             "color": "#f7851e",
             "alcohol": 7,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "キリッと酸味の〜〜〜〜"
           },
           {
             "name": "iwate-ccc",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "ペールエール",
             "color": "#f7851e",
             "alcohol": 3,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "程よい苦味の〜〜〜〜"
           }
         ]
@@ -644,32 +752,38 @@
         "beers": [
           {
             "name": "yamagata-aaa",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "IPA",
             "color": "#f7851e",
             "alcohol": 5,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "ほんのり甘い香りが〜〜〜〜"
           },
           {
             "name": "yamagata-bbb",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "ピルスナー",
             "color": "#f7851e",
             "alcohol": 7,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "キリッと酸味の〜〜〜〜"
           },
           {
             "name": "yamagata-ccc",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "ペールエール",
             "color": "#f7851e",
             "alcohol": 3,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "程よい苦味の〜〜〜〜"
           }
         ]
@@ -679,32 +793,38 @@
         "beers": [
           {
             "name": "miyagi-aaa",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "IPA",
             "color": "#f7851e",
             "alcohol": 5,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "ほんのり甘い香りが〜〜〜〜"
           },
           {
             "name": "miyagi-bbb",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "ピルスナー",
             "color": "#f7851e",
             "alcohol": 7,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "キリッと酸味の〜〜〜〜"
           },
           {
             "name": "miyagi-ccc",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "ペールエール",
             "color": "#f7851e",
             "alcohol": 3,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "程よい苦味の〜〜〜〜"
           }
         ]
@@ -714,32 +834,38 @@
         "beers": [
           {
             "name": "fukushima-aaa",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "IPA",
             "color": "#f7851e",
             "alcohol": 5,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "ほんのり甘い香りが〜〜〜〜"
           },
           {
             "name": "fukushima-bbb",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "ピルスナー",
             "color": "#f7851e",
             "alcohol": 7,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "キリッと酸味の〜〜〜〜"
           },
           {
             "name": "fukushima-ccc",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "ペールエール",
             "color": "#f7851e",
             "alcohol": 3,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "程よい苦味の〜〜〜〜"
           }
         ]
@@ -749,32 +875,38 @@
         "beers": [
           {
             "name": "fukushima-aaa",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "IPA",
             "color": "#f7851e",
             "alcohol": 5,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "ほんのり甘い香りが〜〜〜〜"
           },
           {
             "name": "fukushima-bbb",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "ピルスナー",
             "color": "#f7851e",
             "alcohol": 7,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "キリッと酸味の〜〜〜〜"
           },
           {
             "name": "fukushima-ccc",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "ペールエール",
             "color": "#f7851e",
             "alcohol": 3,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "程よい苦味の〜〜〜〜"
           }
         ]
@@ -784,32 +916,38 @@
         "beers": [
           {
             "name": "fukushima-aaa",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "IPA",
             "color": "#f7851e",
             "alcohol": 5,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "ほんのり甘い香りが〜〜〜〜"
           },
           {
             "name": "fukushima-bbb",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "ピルスナー",
             "color": "#f7851e",
             "alcohol": 7,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "キリッと酸味の〜〜〜〜"
           },
           {
             "name": "fukushima-ccc",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "ペールエール",
             "color": "#f7851e",
             "alcohol": 3,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "程よい苦味の〜〜〜〜"
           }
         ]
@@ -823,32 +961,38 @@
         "beers": [
           {
             "name": "hokkaidou-aaa",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "IPA",
             "color": "#f7851e",
             "alcohol": 5,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "ほんのり甘い香りが〜〜〜〜"
           },
           {
             "name": "hokkaidou-bbb",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "ピルスナー",
             "color": "#f7851e",
             "alcohol": 7,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "キリッと酸味の〜〜〜〜"
           },
           {
             "name": "hokkaidou-ccc",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "ペールエール",
             "color": "#f7851e",
             "alcohol": 3,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "程よい苦味の〜〜〜〜"
           }
         ]
@@ -858,32 +1002,38 @@
         "beers": [
           {
             "name": "aomori-aaa",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "IPA",
             "color": "#f7851e",
             "alcohol": 5,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "ほんのり甘い香りが〜〜〜〜"
           },
           {
             "name": "aomori-bbb",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "ピルスナー",
             "color": "#f7851e",
             "alcohol": 7,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "キリッと酸味の〜〜〜〜"
           },
           {
             "name": "aomori-ccc",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "ペールエール",
             "color": "#f7851e",
             "alcohol": 3,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "程よい苦味の〜〜〜〜"
           }
         ]
@@ -893,32 +1043,38 @@
         "beers": [
           {
             "name": "akita-aaa",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "IPA",
             "color": "#f7851e",
             "alcohol": 5,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "ほんのり甘い香りが〜〜〜〜"
           },
           {
             "name": "akita-bbb",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "ピルスナー",
             "color": "#f7851e",
             "alcohol": 7,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "キリッと酸味の〜〜〜〜"
           },
           {
             "name": "akita-ccc",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "ペールエール",
             "color": "#f7851e",
             "alcohol": 3,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "程よい苦味の〜〜〜〜"
           }
         ]
@@ -928,32 +1084,38 @@
         "beers": [
           {
             "name": "iwate-aaa",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "IPA",
             "color": "#f7851e",
             "alcohol": 5,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "ほんのり甘い香りが〜〜〜〜"
           },
           {
             "name": "iwate-bbb",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "ピルスナー",
             "color": "#f7851e",
             "alcohol": 7,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "キリッと酸味の〜〜〜〜"
           },
           {
             "name": "iwate-ccc",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "ペールエール",
             "color": "#f7851e",
             "alcohol": 3,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "程よい苦味の〜〜〜〜"
           }
         ]
@@ -963,32 +1125,38 @@
         "beers": [
           {
             "name": "yamagata-aaa",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "IPA",
             "color": "#f7851e",
             "alcohol": 5,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "ほんのり甘い香りが〜〜〜〜"
           },
           {
             "name": "yamagata-bbb",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "ピルスナー",
             "color": "#f7851e",
             "alcohol": 7,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "キリッと酸味の〜〜〜〜"
           },
           {
             "name": "yamagata-ccc",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "ペールエール",
             "color": "#f7851e",
             "alcohol": 3,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "程よい苦味の〜〜〜〜"
           }
         ]
@@ -998,32 +1166,38 @@
         "beers": [
           {
             "name": "miyagi-aaa",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "IPA",
             "color": "#f7851e",
             "alcohol": 5,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "ほんのり甘い香りが〜〜〜〜"
           },
           {
             "name": "miyagi-bbb",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "ピルスナー",
             "color": "#f7851e",
             "alcohol": 7,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "キリッと酸味の〜〜〜〜"
           },
           {
             "name": "miyagi-ccc",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "ペールエール",
             "color": "#f7851e",
             "alcohol": 3,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "程よい苦味の〜〜〜〜"
           }
         ]
@@ -1033,32 +1207,38 @@
         "beers": [
           {
             "name": "fukushima-aaa",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "IPA",
             "color": "#f7851e",
             "alcohol": 5,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "ほんのり甘い香りが〜〜〜〜"
           },
           {
             "name": "fukushima-bbb",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "ピルスナー",
             "color": "#f7851e",
             "alcohol": 7,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "キリッと酸味の〜〜〜〜"
           },
           {
             "name": "fukushima-ccc",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "ペールエール",
             "color": "#f7851e",
             "alcohol": 3,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "程よい苦味の〜〜〜〜"
           }
         ]
@@ -1072,32 +1252,38 @@
         "beers": [
           {
             "name": "hokkaidou-aaa",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "IPA",
             "color": "#f7851e",
             "alcohol": 5,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "ほんのり甘い香りが〜〜〜〜"
           },
           {
             "name": "hokkaidou-bbb",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "ピルスナー",
             "color": "#f7851e",
             "alcohol": 7,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "キリッと酸味の〜〜〜〜"
           },
           {
             "name": "hokkaidou-ccc",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "ペールエール",
             "color": "#f7851e",
             "alcohol": 3,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "程よい苦味の〜〜〜〜"
           }
         ]
@@ -1107,32 +1293,38 @@
         "beers": [
           {
             "name": "aomori-aaa",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "IPA",
             "color": "#f7851e",
             "alcohol": 5,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "ほんのり甘い香りが〜〜〜〜"
           },
           {
             "name": "aomori-bbb",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "ピルスナー",
             "color": "#f7851e",
             "alcohol": 7,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "キリッと酸味の〜〜〜〜"
           },
           {
             "name": "aomori-ccc",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "ペールエール",
             "color": "#f7851e",
             "alcohol": 3,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "程よい苦味の〜〜〜〜"
           }
         ]
@@ -1142,32 +1334,38 @@
         "beers": [
           {
             "name": "akita-aaa",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "IPA",
             "color": "#f7851e",
             "alcohol": 5,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "ほんのり甘い香りが〜〜〜〜"
           },
           {
             "name": "akita-bbb",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "ピルスナー",
             "color": "#f7851e",
             "alcohol": 7,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "キリッと酸味の〜〜〜〜"
           },
           {
             "name": "akita-ccc",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "ペールエール",
             "color": "#f7851e",
             "alcohol": 3,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "程よい苦味の〜〜〜〜"
           }
         ]
@@ -1177,32 +1375,38 @@
         "beers": [
           {
             "name": "iwate-aaa",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "IPA",
             "color": "#f7851e",
             "alcohol": 5,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "ほんのり甘い香りが〜〜〜〜"
           },
           {
             "name": "iwate-bbb",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "ピルスナー",
             "color": "#f7851e",
             "alcohol": 7,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "キリッと酸味の〜〜〜〜"
           },
           {
             "name": "iwate-ccc",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "ペールエール",
             "color": "#f7851e",
             "alcohol": 3,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "程よい苦味の〜〜〜〜"
           }
         ]
@@ -1212,32 +1416,38 @@
         "beers": [
           {
             "name": "yamagata-aaa",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "IPA",
             "color": "#f7851e",
             "alcohol": 5,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "ほんのり甘い香りが〜〜〜〜"
           },
           {
             "name": "yamagata-bbb",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "ピルスナー",
             "color": "#f7851e",
             "alcohol": 7,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "キリッと酸味の〜〜〜〜"
           },
           {
             "name": "yamagata-ccc",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "ペールエール",
             "color": "#f7851e",
             "alcohol": 3,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "程よい苦味の〜〜〜〜"
           }
         ]
@@ -1251,32 +1461,38 @@
         "beers": [
           {
             "name": "hokkaidou-aaa",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "IPA",
             "color": "#f7851e",
             "alcohol": 5,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "ほんのり甘い香りが〜〜〜〜"
           },
           {
             "name": "hokkaidou-bbb",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "ピルスナー",
             "color": "#f7851e",
             "alcohol": 7,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "キリッと酸味の〜〜〜〜"
           },
           {
             "name": "hokkaidou-ccc",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "ペールエール",
             "color": "#f7851e",
             "alcohol": 3,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "程よい苦味の〜〜〜〜"
           }
         ]
@@ -1286,32 +1502,38 @@
         "beers": [
           {
             "name": "aomori-aaa",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "IPA",
             "color": "#f7851e",
             "alcohol": 5,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "ほんのり甘い香りが〜〜〜〜"
           },
           {
             "name": "aomori-bbb",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "ピルスナー",
             "color": "#f7851e",
             "alcohol": 7,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "キリッと酸味の〜〜〜〜"
           },
           {
             "name": "aomori-ccc",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "ペールエール",
             "color": "#f7851e",
             "alcohol": 3,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "程よい苦味の〜〜〜〜"
           }
         ]
@@ -1321,32 +1543,38 @@
         "beers": [
           {
             "name": "akita-aaa",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "IPA",
             "color": "#f7851e",
             "alcohol": 5,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "ほんのり甘い香りが〜〜〜〜"
           },
           {
             "name": "akita-bbb",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "ピルスナー",
             "color": "#f7851e",
             "alcohol": 7,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "キリッと酸味の〜〜〜〜"
           },
           {
             "name": "akita-ccc",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "ペールエール",
             "color": "#f7851e",
             "alcohol": 3,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "程よい苦味の〜〜〜〜"
           }
         ]
@@ -1356,32 +1584,38 @@
         "beers": [
           {
             "name": "iwate-aaa",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "IPA",
             "color": "#f7851e",
             "alcohol": 5,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "ほんのり甘い香りが〜〜〜〜"
           },
           {
             "name": "iwate-bbb",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "ピルスナー",
             "color": "#f7851e",
             "alcohol": 7,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "キリッと酸味の〜〜〜〜"
           },
           {
             "name": "iwate-ccc",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "ペールエール",
             "color": "#f7851e",
             "alcohol": 3,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "程よい苦味の〜〜〜〜"
           }
         ]
@@ -1395,32 +1629,38 @@
         "beers": [
           {
             "name": "hokkaidou-aaa",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "IPA",
             "color": "#f7851e",
             "alcohol": 5,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "ほんのり甘い香りが〜〜〜〜"
           },
           {
             "name": "hokkaidou-bbb",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "ピルスナー",
             "color": "#f7851e",
             "alcohol": 7,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "キリッと酸味の〜〜〜〜"
           },
           {
             "name": "hokkaidou-ccc",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "ペールエール",
             "color": "#f7851e",
             "alcohol": 3,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "程よい苦味の〜〜〜〜"
           }
         ]
@@ -1430,32 +1670,38 @@
         "beers": [
           {
             "name": "aomori-aaa",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "IPA",
             "color": "#f7851e",
             "alcohol": 5,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "ほんのり甘い香りが〜〜〜〜"
           },
           {
             "name": "aomori-bbb",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "ピルスナー",
             "color": "#f7851e",
             "alcohol": 7,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "キリッと酸味の〜〜〜〜"
           },
           {
             "name": "aomori-ccc",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "ペールエール",
             "color": "#f7851e",
             "alcohol": 3,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "程よい苦味の〜〜〜〜"
           }
         ]
@@ -1465,32 +1711,38 @@
         "beers": [
           {
             "name": "akita-aaa",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "IPA",
             "color": "#f7851e",
             "alcohol": 5,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "ほんのり甘い香りが〜〜〜〜"
           },
           {
             "name": "akita-bbb",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "ピルスナー",
             "color": "#f7851e",
             "alcohol": 7,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "キリッと酸味の〜〜〜〜"
           },
           {
             "name": "akita-ccc",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "ペールエール",
             "color": "#f7851e",
             "alcohol": 3,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "程よい苦味の〜〜〜〜"
           }
         ]
@@ -1500,32 +1752,38 @@
         "beers": [
           {
             "name": "iwate-aaa",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "IPA",
             "color": "#f7851e",
             "alcohol": 5,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "ほんのり甘い香りが〜〜〜〜"
           },
           {
             "name": "iwate-bbb",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "ピルスナー",
             "color": "#f7851e",
             "alcohol": 7,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "キリッと酸味の〜〜〜〜"
           },
           {
             "name": "iwate-ccc",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "ペールエール",
             "color": "#f7851e",
             "alcohol": 3,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "程よい苦味の〜〜〜〜"
           }
         ]
@@ -1535,32 +1793,38 @@
         "beers": [
           {
             "name": "yamagata-aaa",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "IPA",
             "color": "#f7851e",
             "alcohol": 5,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "ほんのり甘い香りが〜〜〜〜"
           },
           {
             "name": "yamagata-bbb",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "ピルスナー",
             "color": "#f7851e",
             "alcohol": 7,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "キリッと酸味の〜〜〜〜"
           },
           {
             "name": "yamagata-ccc",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "ペールエール",
             "color": "#f7851e",
             "alcohol": 3,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "程よい苦味の〜〜〜〜"
           }
         ]
@@ -1570,32 +1834,38 @@
         "beers": [
           {
             "name": "miyagi-aaa",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "IPA",
             "color": "#f7851e",
             "alcohol": 5,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "ほんのり甘い香りが〜〜〜〜"
           },
           {
             "name": "miyagi-bbb",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "ピルスナー",
             "color": "#f7851e",
             "alcohol": 7,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "キリッと酸味の〜〜〜〜"
           },
           {
             "name": "miyagi-ccc",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "ペールエール",
             "color": "#f7851e",
             "alcohol": 3,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "程よい苦味の〜〜〜〜"
           }
         ]
@@ -1605,32 +1875,38 @@
         "beers": [
           {
             "name": "fukushima-aaa",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "IPA",
             "color": "#f7851e",
             "alcohol": 5,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "ほんのり甘い香りが〜〜〜〜"
           },
           {
             "name": "fukushima-bbb",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "ピルスナー",
             "color": "#f7851e",
             "alcohol": 7,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "キリッと酸味の〜〜〜〜"
           },
           {
             "name": "fukushima-ccc",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "ペールエール",
             "color": "#f7851e",
             "alcohol": 3,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "程よい苦味の〜〜〜〜"
           }
         ]
@@ -1640,32 +1916,38 @@
         "beers": [
           {
             "name": "fukushima-aaa",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "IPA",
             "color": "#f7851e",
             "alcohol": 5,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "ほんのり甘い香りが〜〜〜〜"
           },
           {
             "name": "fukushima-bbb",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "ピルスナー",
             "color": "#f7851e",
             "alcohol": 7,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "キリッと酸味の〜〜〜〜"
           },
           {
             "name": "fukushima-ccc",
+            "src": "/beer-list/sample-beer.jpeg",
+            "alt": "",
             "style": "ペールエール",
             "color": "#f7851e",
             "alcohol": 3,
-            "bitterness": "3",
-            "sweetness": "2",
-            "fullBodied": "4",
+            "bitterness": 3,
+            "sweetness": 2,
+            "fullBodied": 4,
             "feature": "程よい苦味の〜〜〜〜"
           }
         ]
