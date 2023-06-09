@@ -20,13 +20,13 @@ export const Sidebar: React.FunctionComponent = () => {
             ビールの種類
           </Text>
         </Link>
-        <Link href="#">
+        <Link href="/food">
           <Text sx={TextStyles}>
             <Image src="/header/restaurant.png" alt="RestaurantIcon" sx={ImageStyles} />
             おつまみ
           </Text>
         </Link>
-        <Link href="#">
+        <Link href="/cocktail">
           <Text sx={TextStyles}>
             <Image src="/header/cocktail.png" alt="CocktailIcon" sx={ImageStyles} />
             アレンジ
